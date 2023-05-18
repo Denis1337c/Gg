@@ -1,2 +1,2 @@
 # prl_AtyakhevByxoninGrachev
-Лабораторная работа №7
+Лабораторная работа 
